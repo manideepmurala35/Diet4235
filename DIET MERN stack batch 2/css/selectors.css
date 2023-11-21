@@ -1,0 +1,42 @@
+/* */
+h2{
+    color:blue;
+}
+h3{
+    color:color-mix(in srgb, color percentage, color percentage)
+
+}
+P{
+    COLOR:RED;
+}
+h2,h3,p{
+    color:red;
+}
+/* id selector */
+#first{
+    color:blue;
+}
+/* Class selector*/
+.second{
+    color:brown;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: chartreuse;
+    border:5px solid aquamarine;
+    padding-top:10px;
+    margun-top:20px;
+}
+/*universal selectors*/
+*{
+    text-align:center;
+}
+div p{
+    color:darkred;
+}
+body
+{
+    background-color:rgb(110,98,58);
+    background-image: url("./image/desktop-wallpaper-allu-arjun-ala-vaikuntapuramlo-thumbnail.jpg");
+    background-repeat:no-repeat;
+    background-position:center top;
+}
